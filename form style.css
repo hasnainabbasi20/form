@@ -1,0 +1,78 @@
+body{
+    background-image: url(images/saylani.jpeg);
+    background-position: center; 
+    background-repeat:no-repeat ;
+    font-family:Arial, Helvetica, Century;
+    font-weight: 100;    
+}
+   
+#label1{
+    padding: bottom 50px;
+    color: blue;
+}
+.selection{
+    width: 25%;
+    padding: 1%;
+   border-color: rgba(156, 248, 19, 0.582);
+   color: blue;
+   margin-left: 40%;
+   
+   
+}
+
+#select1{ 
+    width: 25%;
+    padding: 1%;
+   border-color: rgba(156, 248, 19, 0.582);
+   color: gray;
+   
+
+}
+
+
+
+
+#picture1{
+    margin-top:100px;
+    width: 120px;
+    height: 80px;
+    border: solid black 1px;
+    padding-top: 60px;
+    padding-left: 20px;
+    margin-left :20px; 
+}
+
+#radio1{
+    padding-top: 100px;
+}
+
+#ul1{
+    list-style-type: none;
+        
+}
+
+#ol1{
+    margin-bottom: 10%;
+}
+
+
+#button1{
+   width: 13%;
+    height: 50px;
+    border: black solid 1px;
+    color: rgb(1, 0, 0);
+    margin-bottom: 56px;
+   
+}
+#button1:hover{
+    
+    transition:10s;
+    background-color: aqua;
+    color: blue;
+    cursor: pointer;
+
+}
+#file1{
+   width: 20%;
+   height: 50px;
+}
